@@ -8,7 +8,6 @@ words = ["KENYA", "UGANDA", "TANZANIA", "BURUNDI", "RWANDA", "ETHIOPIA", "SOUTHS
           "SOMALIA"]
 
 secret_word = random.choice(words)
-print(secret_word)
 
 display_word = []
 for i in secret_word:
